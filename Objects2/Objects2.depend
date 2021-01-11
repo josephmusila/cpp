@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1609637263 source:g:\t02308\cpp\objects2\main.cpp
+	<iostream>
+	<string>
+	"Books.h"
+	"Records.h"
+	"Patients.h"
+
+1609626831 g:\t02308\cpp\objects2\books.h
+	<iostream>
+	<string>
+
+1609626953 source:g:\t02308\cpp\objects2\books.cpp
+	"Books.h"
+
+1609633368 source:g:\t02308\cpp\objects2\records.cpp
+	"Records.h"
+
+1609634484 g:\t02308\cpp\objects2\records.h
+	<iostream>
+	<string>
+
+1609637178 source:g:\t02308\cpp\objects2\patients.cpp
+	"Patients.h"
+
+1609637711 g:\t02308\cpp\objects2\patients.h
+	<iostream>
+	<string>
+
